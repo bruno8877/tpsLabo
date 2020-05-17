@@ -49,3 +49,28 @@
 	<string.h>
 	"validation.h"
 
+1589677450 source:c:\users\bruno\onedrive\escritorio\program\trabajos practicos\tp-2\tp.2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"validation.h"
+
+1589678416 c:\users\bruno\onedrive\escritorio\program\trabajos practicos\tp-2\tp.2\arrayemployees.h
+	<stdio.h>
+
+1589611441 c:\users\bruno\onedrive\escritorio\program\trabajos practicos\tp-2\tp.2\validation.h
+	<stdio.h>
+
+1589677534 source:c:\users\bruno\onedrive\escritorio\program\trabajos practicos\tp-2\tp.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1589664305 source:c:\users\bruno\onedrive\escritorio\program\trabajos practicos\tp-2\tp.2\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validation.h"
+

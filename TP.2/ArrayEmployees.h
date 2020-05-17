@@ -15,7 +15,6 @@ typedef struct
 } eEmployee;
 
 
-void hardcodeoEmpleados(eEmployee* list, int len);
 //FUNCIONES INICIAR
 int initEmployees(eEmployee* list, int len);
 /** \brief To indicate that all position in the array are empty,
@@ -44,9 +43,6 @@ int addEmployees(int idx,eEmployee* list,int len);
  * \return int Return (-1) if Error [Invalid length or NULL pointer or without
 free space] - (0) if Ok*/
 
-
-//se pide que ingrese los datos del empleado
-eEmployee EmployeeAdd();
 
 //FUNCION QUE BUSCA EMPLEADO POR ID
 int findEmployeeById(eEmployee* list,int len,int id);
